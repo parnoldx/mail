@@ -42,8 +42,10 @@ Using the points mentioned here https://firesofmay.substack.com/p/hey-app-review
 * Technology
   * Just using evolution data server or https://github.com/jstedfast/MailKit if I do windows - gives all IMAP stuff.
   * Additional **filter rules of the mail provider must be changeable per IMAP**. 
-     https://www.heise.de/netze/rfc/rfcs/rfc5804.shtml
-   https://github.com/thsmi/sieve
+  * Sieve Filter
+    * https://www.heise.de/netze/rfc/rfcs/rfc5804.shtml
+    * https://github.com/thsmi/sieve
+    * https://www.systutorials.com/docs/linux/man/1-sieve-filter/
   * If it's feasible to use a Trackingpixel blocker, do it. List from hey.com https://gist.github.com/dhh/360f4dc7ddbce786f8e82b97cdad9d20
   Use adblocker like feature in webkit
   Maybe something like https://github.com/stefanXO/PixelBlock
