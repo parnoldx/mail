@@ -2,8 +2,8 @@
 
 # Approach 
 
-Decouple from the typical email folder style view to special views for each UX case and hide all the email filter stuff under a opinonated UX approach
-Something in this direction https://firesofmay.substack.com/p/hey-app-review-a-personal-take
+Decouple from the typical email folder style view to special views for each UX case and hide all the email filter stuff under a opinonated UX approach.
+Using the points mentioned here https://firesofmay.substack.com/p/hey-app-review-a-personal-take
 
 * Screener
   * Move all emails to a imap folder with a filter
