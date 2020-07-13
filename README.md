@@ -33,7 +33,7 @@ Using the points mentioned here https://firesofmay.substack.com/p/hey-app-review
   * Rename email threads -> possible with IMAP
   * Not sure if merging is possible -> TODO
   * Notification are Opt-in for all except the Important category
-  * Replace a to big attachment with a link and upload it to some service (TODO check if a good free service exist)
+  * Replace a to big attachment with a link and upload it to some service - https://transfer.sh/
   * Check if it's is possible to replicate a note feature. Usecase. Email thread -> Phone Conversation -> Add notes to the corresponding topic
 
 * Technology
