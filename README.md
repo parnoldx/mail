@@ -34,11 +34,11 @@ Using the points mentioned here https://firesofmay.substack.com/p/hey-app-review
   * Rename email threads -> possible with IMAP
   * Not sure if merging is possible -> TODO
   * Notification are Opt-in for all except the Important category
-  * Replace a to big attachment with a link and upload it to some service - https://transfer.sh/
+  * Replace a to big attachment with a link and upload it to some service - Call a script standard https://transfer.sh/ but so can be customized
   * Check if it's is possible to replicate a note feature. Usecase. Email thread -> Phone Conversation -> Add notes to the corresponding topic
   * Get rid of those annoying email signatures in threads - https://github.com/mailgun/talon
 
 * Technology
   * Just using evolution data server - gives all imap stuff.
-  * Additional must be the **filter rules of the mail provider be changeable per API**. Possible with OX and will be target. Do it as plugin, so other can add their provider if they want
+  * Additional must be the **filter rules of the mail provider be changeable per API**. Possible with OX and will be target. Do it as plugin, so other can add their provider if they want. Or call bash script or js stuff or something to help with authentification stuff and make it more accessible
   * If it's feasible to use a Trackingpixel blocker do it. Maybe something like https://github.com/stefanXO/PixelBlock - Investigate
