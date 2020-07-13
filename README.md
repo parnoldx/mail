@@ -50,4 +50,4 @@ Using the points mentioned here https://firesofmay.substack.com/p/hey-app-review
   * Important will be the normal Inbox just like today
   * Feed and Paper trail will be moved to folders and must be activly opened. Since these mails are not time relevant this is just fine.
   * Screened out mails will not hit the mailbox
-  * So it improves the experience with normal approach imap clients.
+  * So it improves the experience with normal approach IMAP clients.
