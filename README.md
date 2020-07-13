@@ -34,7 +34,7 @@ Using the points mentioned here https://firesofmay.substack.com/p/hey-app-review
   * Rename email threads -> possible with IMAP
   * Not sure if merging is possible -> TODO check
   * Notification are Opt-in for all except the Important category
-  * Replace a to big attachment with a link and upload it to some service - Call a script standard https://transfer.sh/ but so can be customized
+  * Replace a too big attachment with a link and upload it to some service - Call a script standard https://transfer.sh/ but so can be customized
   * Check if it's is possible to replicate a note feature. Usecase. Email thread -> Phone Conversation -> Add notes to the corresponding topic
   * Get rid of those annoying email signatures in threads - https://github.com/mailgun/talon
 
