@@ -11,7 +11,7 @@ Using the points mentioned here https://firesofmay.substack.com/p/hey-app-review
   * if screened in - do a filter to move all future mails to one of the three categories, move all existing mails from the screener accordingly
   * The user will propably handle all screener mails but if not nothing decided delete after certain amount of days
 * 3 Kind of emails. Important, Feed, Paper Trail
-* Important category
+* Important category (The inbox in imap)
   * Unread at first
   * Then two approaches possible
     * Read means nothing is done, leave it in the inbox - it is the read later stack. 
