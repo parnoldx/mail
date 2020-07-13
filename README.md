@@ -40,5 +40,7 @@ Using the points mentioned here https://firesofmay.substack.com/p/hey-app-review
 
 * Technology
   * Just using evolution data server - gives all imap stuff.
-  * Additional must be the **filter rules of the mail provider be changeable per API**. Possible with OX and will be target. Do it as plugin, so other can add their provider if they want. Or call bash script or js stuff or something to help with authentification stuff and make it more accessible
+  * Additional must be the **filter rules of the mail provider be changeable per IMAP**. Possible with OX and will be target. 
+  https://tools.ietf.org/html/rfc5466#section-3.2 
+  https://kb.mailbox.org/m/mobile.action#page/1181544
   * If it's feasible to use a Trackingpixel blocker do it. Maybe something like https://github.com/stefanXO/PixelBlock - Investigate
