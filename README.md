@@ -28,6 +28,7 @@ Using the points mentioned here https://firesofmay.substack.com/p/hey-app-review
 * Contact Page
   * Show a contact page, with all mails, categorisation, attachments and so on
   * If you change category move and adapt filters
+  * Show extracted email signature
 
 * Helpful stuff
   * Rename email threads -> possible with IMAP
@@ -35,6 +36,7 @@ Using the points mentioned here https://firesofmay.substack.com/p/hey-app-review
   * Notification are Opt-in for all except the Important category
   * Replace a to big attachment with a link and upload it to some service - https://transfer.sh/
   * Check if it's is possible to replicate a note feature. Usecase. Email thread -> Phone Conversation -> Add notes to the corresponding topic
+  * Get rid of those annoying email signatures in threads - https://github.com/mailgun/talon
 
 * Technology
   * Just using evolution data server - gives all imap stuff.
