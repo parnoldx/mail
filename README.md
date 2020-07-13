@@ -9,7 +9,7 @@ Using the points mentioned here https://firesofmay.substack.com/p/hey-app-review
   * Move all emails to a imap folder with a filter
   * if screened out - make a blacklist for this email -> gone
   * if screened in - do a filter to move all future mails to one of the three categories, move all existing mails from the screener accordingly
-  * The user will propably handle all screener mails but if not nothing decided delete after certain amount of days
+  * The user will propably handle all screener mails but if nothing is decided delete after certain amount of days
 * 3 Kind of emails. Important, Feed, Paper Trail
 * Important category (The inbox in imap)
   * Unread at first
