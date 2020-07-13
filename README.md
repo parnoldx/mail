@@ -23,7 +23,8 @@ Using the points mentioned here https://firesofmay.substack.com/p/hey-app-review
   
 * Feed and Paper Trail 
   * have no unread/read status and moved with filters to imap folders
-  * If you move a address to these categories - add filters and move all emails from the inbox to the corresponding folders
+  * If you move a address to these categories - add filters and move all emails to the corresponding folders
+  * Emails will be presented in a feed like view
   
 * Contact Page
   * Show a contact page, with all mails, categorisation, attachments and so on
