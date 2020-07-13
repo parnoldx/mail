@@ -19,7 +19,7 @@ Using the points mentioned here https://firesofmay.substack.com/p/hey-app-review
     * Or
     * Read means nothing is done, all mails in the inbox.
     * Somehow marked (Star?) if it's the read later stack
-  * Set aside some imap tag on it that it can be presented 
+  * Set aside - some imap tag on it that it can be presented 
   
 * Feed and Paper Trail 
   * have no unread/read status and moved with filters to imap folders
