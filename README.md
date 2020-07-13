@@ -39,7 +39,7 @@ Using the points mentioned here https://firesofmay.substack.com/p/hey-app-review
   * Get rid of those annoying email signatures in threads - https://github.com/mailgun/talon
 
 * Technology
-  * Just using evolution data server - gives all imap stuff.
+  * Just using evolution data server or https://github.com/jstedfast/MailKit if I do windows - gives all imap stuff.
   * Additional must be the **filter rules of the mail provider be changeable per IMAP**. Possible with OX and will be target. 
   https://tools.ietf.org/html/rfc5466#section-3.2 
   https://kb.mailbox.org/m/mobile.action#page/1181544
