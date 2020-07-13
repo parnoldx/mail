@@ -26,11 +26,6 @@ Using the points mentioned here https://firesofmay.substack.com/p/hey-app-review
   * If you move a address to these categories - add filters and move all emails to the corresponding folders
   * Emails will be presented in a feed like view
   
-* Behavior in other clients (mobil)
-  * Important will be the normal Inbox just like today
-  * Feed and Paper trail will not be in folders and must be activly opened. Since these mails are not time relevant this is just fine.
-  * Screened out mails will not hit the mailbox
-
 * Contact Page
   * Show a contact page, with all mails, categorisation, attachments and so on
   * If you change category move and adapt filters
@@ -50,3 +45,9 @@ Using the points mentioned here https://firesofmay.substack.com/p/hey-app-review
      https://www.heise.de/netze/rfc/rfcs/rfc5804.shtml
    https://github.com/thsmi/sieve
   * If it's feasible to use a Trackingpixel blocker, do it. Maybe something like https://github.com/stefanXO/PixelBlock - TODO Investigate
+
+* Behavior in other clients (mobil)
+  * Important will be the normal Inbox just like today
+  * Feed and Paper trail will be moved to folders and must be activly opened. Since these mails are not time relevant this is just fine.
+  * Screened out mails will not hit the mailbox
+  * So it improves the experience with normal approach imap clients.
