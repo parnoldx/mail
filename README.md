@@ -1,4 +1,4 @@
-**EMail-Client trying to replicate the Hey.com behavior on IMAP service over something like OX (openXchange - used by a lot of email providers)**
+**EMail-Client trying to replicate the Hey.com behavior on IMAP service with support of sieve filters**
 
 # Approach 
 
@@ -40,7 +40,7 @@ Using the points mentioned here https://firesofmay.substack.com/p/hey-app-review
 
 * Technology
   * Just using evolution data server or https://github.com/jstedfast/MailKit if I do windows - gives all IMAP stuff.
-  * Additional must be the **filter rules of the mail provider be changeable per IMAP**. Possible with OX and will be target. 
-  https://tools.ietf.org/html/rfc5466#section-3.2 or https://www.heise.de/netze/rfc/rfcs/rfc5804.shtml
-  https://kb.mailbox.org/m/mobile.action#page/1181544
+  * Additional **filter rules of the mail provider must be changeable per IMAP**. 
+     https://www.heise.de/netze/rfc/rfcs/rfc5804.shtml
+   https://github.com/thsmi/sieve
   * If it's feasible to use a Trackingpixel blocker, do it. Maybe something like https://github.com/stefanXO/PixelBlock - TODO Investigate
