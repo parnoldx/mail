@@ -2,7 +2,7 @@
 
 # Approach 
 
-Decouple from the typical email folder style view to special views for each UX case and hide all the email filter stuff under a opinonated UX approach.
+Decouple from the typical email folder style view to special views for each UX case and hide/automate all the email filter stuff under a opinonated UX approach.
 Using the points mentioned here https://firesofmay.substack.com/p/hey-app-review-a-personal-take
 
 * Screener
