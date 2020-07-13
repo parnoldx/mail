@@ -32,15 +32,15 @@ Using the points mentioned here https://firesofmay.substack.com/p/hey-app-review
 
 * Helpful stuff
   * Rename email threads -> possible with IMAP
-  * Not sure if merging is possible -> TODO
+  * Not sure if merging is possible -> TODO check
   * Notification are Opt-in for all except the Important category
   * Replace a to big attachment with a link and upload it to some service - Call a script standard https://transfer.sh/ but so can be customized
   * Check if it's is possible to replicate a note feature. Usecase. Email thread -> Phone Conversation -> Add notes to the corresponding topic
   * Get rid of those annoying email signatures in threads - https://github.com/mailgun/talon
 
 * Technology
-  * Just using evolution data server or https://github.com/jstedfast/MailKit if I do windows - gives all imap stuff.
+  * Just using evolution data server or https://github.com/jstedfast/MailKit if I do windows - gives all IMAP stuff.
   * Additional must be the **filter rules of the mail provider be changeable per IMAP**. Possible with OX and will be target. 
   https://tools.ietf.org/html/rfc5466#section-3.2 
   https://kb.mailbox.org/m/mobile.action#page/1181544
-  * If it's feasible to use a Trackingpixel blocker do it. Maybe something like https://github.com/stefanXO/PixelBlock - Investigate
+  * If it's feasible to use a Trackingpixel blocker, do it. Maybe something like https://github.com/stefanXO/PixelBlock - TODO Investigate
