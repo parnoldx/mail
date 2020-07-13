@@ -1,4 +1,4 @@
-**EMail-Client trying to replicate the Hey.com behavior on IMAP service with support of sieve filters**
+**EMail-Client trying to replicate the Hey.com behavior with IMAP services that have support for sieve filters**
 
 # Approach 
 
