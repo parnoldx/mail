@@ -16,7 +16,7 @@ Using the points mentioned here https://firesofmay.substack.com/p/hey-app-review
   * Then two approaches possible
     * Read means nothing is done, leave it in the inbox - it is the read later stack. 
     * If you done - archive it. Move it out of the Inbox folder
-    Or
+    - Or
     * Read means nothing is done, all mails in the inbox.
     * Somehow marked (Star?) if it's the read later stack
   * Set aside - some imap tag on it that it can be presented 
