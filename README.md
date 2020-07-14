@@ -58,3 +58,6 @@ Using the points mentioned here https://firesofmay.substack.com/p/hey-app-review
   * Screened out mails will not hit the mailbox
   * Not Screened in mail will not hit the inbox and stored for review later
   * So it improves the experience with normal approach IMAP clients.
+
+
+TODO Should some ux from tempo included? https://www.yourtempo.co/
