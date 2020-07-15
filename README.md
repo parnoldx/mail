@@ -41,6 +41,8 @@ Using the points mentioned here https://firesofmay.substack.com/p/hey-app-review
 
 * Technology
   * Just using evolution data server or https://github.com/jstedfast/MailKit if I do windows - gives all IMAP stuff.
+    * https://github.com/elementary/mail
+    * https://github.com/matzipan/envoyer
   * Additional **filter rules of the mail provider must be changeable per IMAP**. 
   * Sieve Filter
     * https://www.heise.de/netze/rfc/rfcs/rfc5804.shtml
