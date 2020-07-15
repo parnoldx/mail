@@ -37,7 +37,7 @@ Using the points mentioned here https://firesofmay.substack.com/p/hey-app-review
   * Notification are Opt-in for all except the Important category
   * Replace a too big attachment with a link and upload it to some service - Call a script standard https://transfer.sh/ but so can be customized
   * Check if it's is possible to replicate a note feature. Usecase. Email thread -> Phone Conversation -> Add notes to the corresponding topic
-  * Get rid of those annoying email signatures in threads - https://github.com/mailgun/talon
+  * Maybe get rid of email signatures in threads - https://github.com/mailgun/talon
 
 * Technology
   * Just using evolution data server or https://github.com/jstedfast/MailKit if I do windows - gives all IMAP stuff.
