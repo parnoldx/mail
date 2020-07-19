@@ -40,7 +40,7 @@ Using the points mentioned here https://firesofmay.substack.com/p/hey-app-review
   * Maybe get rid of email signatures in threads - https://github.com/mailgun/talon
 
 * Technology
-  * Just using evolution data server or https://github.com/jstedfast/MailKit if I do windows - gives all IMAP stuff.
+  * Just using evolution data server or if cross platform https://github.com/notpushkin/Mailspring-Libre ?
     * https://github.com/elementary/mail
     * https://github.com/matzipan/envoyer
   * Additional **filter rules of the mail provider must be changeable per IMAP**. 
