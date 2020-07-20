@@ -53,6 +53,7 @@ Using the points mentioned here https://firesofmay.substack.com/p/hey-app-review
   * If it's feasible to use a Trackingpixel blocker, do it. List from hey.com https://gist.github.com/dhh/360f4dc7ddbce786f8e82b97cdad9d20
   Use adblocker like feature in webkit
   Maybe something like https://github.com/stefanXO/PixelBlock
+  https://github.com/OneClickLab/ugly-email-trackers
   
 * Behavior in other clients (mobil)
   * Important will be the normal Inbox just like today
