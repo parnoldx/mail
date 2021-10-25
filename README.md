@@ -38,6 +38,7 @@ Using the points mentioned here https://firesofmay.substack.com/p/hey-app-review
   * Replace a too big attachment with a link and upload it to some service - Call a script standard https://transfer.sh/ but so can be customized
   * Check if it's is possible to replicate a note feature. Usecase. Email thread -> Phone Conversation -> Add notes to the corresponding topic
   * Maybe get rid of email signatures in threads - https://github.com/mailgun/talon
+  * https://github.com/yourtempo/tempo-quill-icons
 
 * Technology
   * Just using evolution data server or if cross platform https://github.com/notpushkin/Mailspring-Libre ?
